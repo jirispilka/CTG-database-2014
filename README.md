@@ -1,4 +1,4 @@
-# Open access CTG intrapartum database (CTU-UHB 2014)
+# Open access CTG intrapartum database (2014)
 
 The database, from the Czech Technical University (CTU) in Prague and the University Hospital in Brno (UHB), contains 552 cardiotocography (CTG) recordings, which were carefully selected from 9164 recordings collected between 2010 and 2012 at UHB.
 
@@ -89,7 +89,7 @@ Czech Technical University in Prague, 2014
 
 ```bibtex
 @Article{Chudacek2014,
-author = {Chudáček, V. and Spilka, J. and Burša, Miroslav and Janků, P. and Hruban, L. and Huptych, M. and Lhotská, L.},
+author = {Chudáček, V. and Spilka, J. and Burša, M. and Janků, P. and Hruban, L. and Huptych, M. and Lhotská, L.},
 title = {Open access intrapartum CTG database},
 journal = {BMC Pregnancy and Childbirth},
 volume = {14},

@@ -1,4 +1,4 @@
-function [aFhr, aToco, cParams, nFs] = loadCTU_UHB_db_physionet(index, sPath, bTrimSecondStage)
+function [aFhr, aToco, cParams, nFs] = load_CTU_UHB_db_physionet(index, sPath, bTrimSecondStage)
 % LOADCTU_UHB_DB_PHYSIONET load data in physionet format
 %
 % Synopsis:
@@ -19,7 +19,7 @@ function [aFhr, aToco, cParams, nFs] = loadCTU_UHB_db_physionet(index, sPath, bT
 %  nFs - [int] sampling frequency
 %
 % Example:
-%  [aFhr, aToco, cParams, cFileHeader] = loadCTU_UHB_db_physionet(1001,'~/data/CTU_UHB_db',1);
+%  [aFhr, aToco, cParams, cFileHeader] = load_CTU_UHB_db_physionet(1001,'~/data/CTU_UHB_db',1);
 %
 % See also:
 %  READPHYSIONETHEADER, READPHYSIONETSIGNAL16
