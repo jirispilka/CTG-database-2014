@@ -98,6 +98,5 @@ number = {1},
 pages = {16},
 url = {http://www.biomedcentral.com/1471-2393/14/16},
 doi = {10.1186/1471-2393-14-16},
-issn = {1471-2393}
-}
+issn = {1471-2393}}
 ```
