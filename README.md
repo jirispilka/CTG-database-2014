@@ -2,7 +2,7 @@
 
 The database, from the Czech Technical University (CTU) in Prague and the University Hospital in Brno (UHB), contains 552 cardiotocography (CTG) recordings, which were carefully selected from 9164 recordings collected between 2010 and 2012 at UHB.
 
-- :green_book: [Database files](http://www.physionet.org/physiobank/database/ctu-uhb-ctgdb/)  
+- :green_book: [Database files at physionet.org](http://www.physionet.org/physiobank/database/ctu-uhb-ctgdb/)  
 
 # Description
 
